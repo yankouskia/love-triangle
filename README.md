@@ -27,7 +27,7 @@ Write your code in `src/index.js.
 
 - Install [Node.js](https://nodejs.org/en/)
 - Clone this repository: `git clone https://github.com/yankouskia/sorter.git`
-- Go to folder `sorter`
+- Go to folder `love-triangle`
 - Run `npm install` in command line
 - Run `npm test` in command line
 - You will see the number of passing and failing tests
