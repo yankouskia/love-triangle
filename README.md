@@ -26,7 +26,7 @@ Write your code in `src/index.js.
 ## Prepare and test
 
 - Install [Node.js](https://nodejs.org/en/)
-- Clone this repository: `git clone https://github.com/yankouskia/sorter.git`
+- Clone this repository: `git clone https://github.com/yankouskia/love-triangle.git`
 - Go to folder `love-triangle`
 - Run `npm install` in command line
 - Run `npm test` in command line
