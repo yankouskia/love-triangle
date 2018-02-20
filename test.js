@@ -1,4 +1,5 @@
 const assert = require('assert');
+Object.freeze(assert);
 const getLoveTrianglesCount = require('./src/index');
 
 describe('Love triangles', () => {
